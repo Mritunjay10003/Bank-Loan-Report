@@ -112,3 +112,10 @@ A "single-window" dashboard offering a **comprehensive table view** of all key l
 ✔️ End-to-end pipeline: Raw data → SQL → Power BI → Insightful visuals
 
 ---
+## 📬 Contact
+
+**Mritunjay Singh**  
+📧 Email: mritunjaysingh.as@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/mritunjaysingh10003](https://linkedin.com/in/mritunjaysingh10003)  
+
+> 🧠 *Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful~ Dan Heath*
